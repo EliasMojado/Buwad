@@ -1,0 +1,2 @@
+g++ main.cpp movegen.cpp board.cpp utilities.cpp search.cpp evaluation.cpp -O3 -ffast-math -o buwad
+./buwad
